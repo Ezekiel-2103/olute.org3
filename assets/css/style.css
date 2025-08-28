@@ -336,5 +336,8 @@ section {
   #register h2 {
     font-size: 1.8rem;
   }
+  #heroHeadline{
+      font-size:2rem;
+  } 
 }
 
